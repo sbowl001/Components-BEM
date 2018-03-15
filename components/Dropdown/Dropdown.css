@@ -1,0 +1,8 @@
+.Dropdown__list{
+    position: absolute;
+    display: none;
+}
+
+.Dropdown__link{
+    display:inline-block;
+}
